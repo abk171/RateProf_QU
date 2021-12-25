@@ -1,0 +1,9 @@
+{
+    "default_command_prefix": "!",
+    "support_server": "https://discord.gg/TDDKaRu8rX",
+    "invite_link": "https://discord.com/api/oauth2/authorize?client_id=898518965008093194&permissions=330752&scope=bot",
+    "extensions": [
+        "bot.cogs.meta",
+        "bot.cogs.general"
+    ]
+}
